@@ -433,14 +433,6 @@ section p {
   padding: 20px;
 }
 
-/* #tornaSu {
-  position: fixed;
-  bottom: 0px;
-  z-index: 2;
-  right: 0px;
-  color: transparent;
-} */
-
 #btntornaSu {
   position: fixed;
   bottom: 0px;
@@ -459,14 +451,6 @@ section p {
   font-size: xxx-large;
 }
 
-/* #btnCalendario {
-  position: fixed;
-  bottom: 0px;
-  z-index: 2;
-  right: 0px;
-  font-size: xxx-large;
-  color: transparent;
-} */
 #piuQuadrato {
   position: fixed;
   bottom: 120px;
@@ -475,15 +459,6 @@ section p {
   color: #3f6bca;
   font-size: xxx-large;
 }
-
-/* #btnPiu {
-  position: fixed;
-  bottom: 180px;
-  z-index: 2;
-  right: 0px;
-  font-size: xxx-large;
-  color: transparent;
-} */
 
 #underline img {
   width: 510px;
